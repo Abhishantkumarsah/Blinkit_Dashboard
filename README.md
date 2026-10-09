@@ -143,7 +143,7 @@ The establishment-year chart allows users to examine how recorded sales vary acr
 
 ## 8. Dashboard Preview
 
-![Blinkit Sales Analysis Dashboard]()
+![Blinkit Sales Analysis Dashboard](BlinkitDAshboard.png)
 
 ## 9. Skills Demonstrated
 
